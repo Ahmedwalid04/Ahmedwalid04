@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 💻 **Full-stack craftsman** with a backend focus — passionate about building efficient, clean, and scalable solutions.  
-♟ Chess player, 🥊 MMA enthusiast, 💪 gym rat, 🚗 future Porsche owner.  
+♟ Chess player, 💪 gym rat, 🚗 future Porsche owner.  
 
 ---
 
