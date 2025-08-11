@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Ahmed Walid
 
-> ☕ A caffeinated software engineer who loves to code and solve problems.
+> ☕ Fueled by clean code and strong coffee — I love building solutions and solving problems.
 
 ---
 
 ## 🚀 About Me  
 💻 **Full-stack craftsman** with a backend focus — passionate about building efficient, clean, and scalable solutions.  
-♟ Chess player, 💪 gym rat, 🚗 future Porsche owner.  
+♟ Chess player, 💪 gym rat,  🚗 future Porsche owner.  
 
 ---
 
@@ -42,13 +42,10 @@
 💬 **Quote I Live By**  
 > *"I am an extreme example of what a hard-working man can achieve." – Thomas Shelby*
 
-
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-walid-92b1a4219/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-walid-92b1a4219/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedwalidbahi04@gmail.com)
 
 ---
-
-
