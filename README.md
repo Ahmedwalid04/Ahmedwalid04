@@ -27,8 +27,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedwalid&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwalid&layout=compact&theme=tokyonight)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedwalid04&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwalid04&layout=compact&theme=tokyonight)
 
 ---
 
@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ahmed-walid-92b1a4219/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-walid-92b1a4219/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedwalidbahi04@gmail.com)
 
 ---
