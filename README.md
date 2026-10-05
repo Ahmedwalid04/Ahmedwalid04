@@ -1,51 +1,85 @@
-# 👋 Hey there, I'm Ahmed Walid
+# Hi, I'm Ahmed Walid 👋
 
-> ☕ Fueled by clean code and strong coffee — I love building solutions and solving problems.
+### Backend Software Engineer | .NET & Python
 
----
+Software Engineer focused on building **backend systems, REST APIs, and maintainable full-stack applications**.
 
-## 🚀 About Me  
-💻 **Full-stack craftsman** with a backend focus — passionate about building efficient, clean, and scalable solutions.  
-♟ Chess player, 💪 gym rat,  🚗 future Porsche owner.  
+I currently work in **Research & Development**, developing backend services and API-driven software using **Python and FastAPI**, while also working across frontend integrations and application architecture.
 
----
-
-## 🛠 Tech Arsenal  
-
-**Programming & Frameworks:**  
-`C#` · `.NET Core` · `ASP.NET Core` · `Blazor` · `Entity Framework Core`
-
-**Database Management:**  
-`SQL Server` · `SQLite` · `Dapper` · `LINQ` · `MongoDB`
-
-**Software Development:**  
-`Data Structures` · `OOP` · `SOLID` · `Agile`
-
-**Front-End:**  
-`JavaScript` · `Bootstrap` · `Tailwind CSS`
+My background spans both the **.NET** and **Python** ecosystems, with hands-on experience designing APIs, working with relational databases, implementing authentication and application logic, and building software from backend services through frontend integration.
 
 ---
 
-## 📊 GitHub Stats  
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedwalid04&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwalid04&layout=compact&theme=tokyonight)
+## 🛠 Tech Stack
+
+**Backend**
+
+`C#` · `ASP.NET Core` · `.NET` · `Python` · `FastAPI` · `REST APIs`
+
+**Data**
+
+`PostgreSQL` · `SQL Server` · `SQLite` · `SQLAlchemy` · `Entity Framework Core` · `Dapper`
+
+**Frontend**
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Blazor`
+
+**Engineering**
+
+`OOP` · `SOLID` · `Git` · `GitHub` · `Testing` · `CI/CD` · `Agile`
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced **Microservices Architecture** in C#  
-- Scalable backend design patterns  
-- Building high-performance APIs  
+## 🚀 Featured Projects
+
+### 🎯 [CareeriCS](https://github.com/CareeriCS/CareeriCS)
+
+AI-assisted career guidance platform for Computer Science students and graduates.
+
+**Backend:** Python · FastAPI · SQLAlchemy · PostgreSQL  
+**Frontend:** Next.js · React · TypeScript
+
+The platform includes career exploration, personalized learning roadmaps, skill assessment, CV workflows, interview preparation, and job/internship functionality.
+
+I contributed across backend APIs, service logic, database-backed workflows, and frontend/backend integration as part of the project team.
 
 ---
 
-💬 **Quote I Live By**  
-> *"I am an extreme example of what a hard-working man can achieve." – Thomas Shelby*
+### 👥 [Employee Management System](https://github.com/Ahmedwalid04/EmployeeManagement)
+
+Full-stack employee management application with a backend-focused architecture.
+
+**Backend:** C# · ASP.NET Core Web API · EF Core · SQL Server · AutoMapper  
+**Frontend:** React · TypeScript · Tailwind CSS
+
+Includes employee management, searching, pagination, sorting, soft deletion, status management, API documentation, database migrations, and a structured **Broker → Service → Controller** architecture.
 
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-walid-92b1a4219/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedwalidbahi04@gmail.com)
+### ♟️ [Chesschoholic](https://github.com/Ahmedwalid04/Chesschoholic)
+
+Full-stack chess training application built around an ASP.NET Core backend and React frontend.
+
+**Backend:** C# · ASP.NET Core · REST APIs · JWT Authentication  
+**Frontend:** React · Vite · Tailwind CSS
+
+Includes authentication, secure password handling, chess puzzle workflows, API-driven move validation, and frontend/backend integration.
 
 ---
+
+## 🎯 What I'm Focused On
+
+I'm continuing to deepen my knowledge of:
+
+- Backend and distributed-system design
+- ASP.NET Core and the .NET ecosystem
+- Python and FastAPI
+- Database design and performance
+- Testing and reliable API development
+- System design and scalable application architecture
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/ahmedwalid04/) · [Email](mailto:ahmedwalidbahi04@gmail.com)
